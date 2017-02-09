@@ -1,0 +1,18 @@
+
+body {
+	background-color: green;
+	text-align: center;
+}
+#container{
+	height: 200px;
+	width: 500px;
+	display: inline-flex;
+	position: relative;
+    transform: translateY(80%);
+    padding: 19px;
+	margin: auto;
+	background-color: white;
+	border-radius: 20px;
+	text-orientation: 
+}
+	
